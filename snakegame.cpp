@@ -6,6 +6,7 @@
 using namespace std;
 static int length = 0;
 /*hello aniket*/
+//heloo i am rahul
 class board
 {
 	public :
